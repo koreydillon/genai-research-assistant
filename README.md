@@ -1,7 +1,7 @@
 # 📊 GenAI Research Assistant for Capital Markets
 
 A Streamlit-based app that uses **Retrieval-Augmented Generation (RAG)** to help analysts explore SEC filings (like 10-Ks). Ask questions and receive LLM-powered answers, backed by real source excerpts.
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://<koreydillon>-genai-research-assistant.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://koreydillon-genai-research-assistant.streamlit.app/)
 
 
 ---
