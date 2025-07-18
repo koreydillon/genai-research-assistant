@@ -1,0 +1,8 @@
+streamlit
+openai
+langchain
+faiss-cpu
+beautifulsoup4
+sentence-transformers
+PyPDF2
+tqdm
